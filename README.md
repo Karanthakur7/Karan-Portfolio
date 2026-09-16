@@ -1,16 +1,16 @@
-# Karan Thakur - Personal Portfolio Website
+# Karan-Portfolio - Personal Portfolio Website
 
 [![GitHub](https://img.shields.io/badge/GitHub-Karanthakur7-181717?style=for-the-badge&logo=github)](https://github.com/Karanthakur7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan_Thakur-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-thakur-5b07b5305/)
-[![Live Demo](https://img.shields.io/badge/Live_Portfolio-GitHub_Pages-6366F1?style=for-the-badge&logo=githubpages)](https://karanthakur7.github.io/portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live_Portfolio-GitHub_Pages-6366F1?style=for-the-badge&logo=githubpages)](https://karanthakur7.github.io/Karan-Portfolio/)
 
-A modern, responsive, and professional personal portfolio website designed for **Karan Thakur**, a **B.Tech CSE (AI/ML)** student at **Brainware University** aspiring in **Data Science, Data Analytics, and Artificial Intelligence**.
+A modern, responsive, and professional personal portfolio website designed for **Karan Thakur**, a **B.Tech CSE (AI/ML)** student at **Brainware University** specializing in **Data Science, Data Analytics, and Artificial Intelligence**.
 
 ---
 
 ## 🌟 Live Demo
 
-👉 **[https://karanthakur7.github.io/portfolio/](https://karanthakur7.github.io/portfolio/)**
+👉 **[https://karanthakur7.github.io/Karan-Portfolio/](https://karanthakur7.github.io/Karan-Portfolio/)**
 
 ---
 
@@ -36,7 +36,7 @@ A modern, responsive, and professional personal portfolio website designed for *
 ## 📂 Project Structure
 
 ```
-Portfolio/
+Karan-Portfolio/
 ├── index.html                  # Main entry point (semantic HTML5)
 ├── README.md                   # Repository documentation
 ├── css/
@@ -58,11 +58,11 @@ To run the portfolio locally on your machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Karanthakur7/portfolio.git
+   git clone https://github.com/Karanthakur7/Karan-Portfolio.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd portfolio
+   cd Karan-Portfolio
    ```
 3. Start a local HTTP server:
    ```bash
