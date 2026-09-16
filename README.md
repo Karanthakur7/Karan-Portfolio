@@ -2,13 +2,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Karanthakur7-181717?style=for-the-badge&logo=github)](https://github.com/Karanthakur7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan_Thakur-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-thakur-5b07b5305/)
-[![Live Demo](https://img.shields.io/badge/Live_Portfolio-GitHub_Pages-6366F1?style=for-the-badge&logo=githubpages)](https://karanthakur7.github.io/Karan-Portfolio/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-GitHub_Pages-6366F1?style=for-the-badge&logo=githubpages)](https://karanthakur7.github.io/Karan-Portfolio/)
 
 A modern, responsive, and professional personal portfolio website designed for **Karan Thakur**, a **B.Tech CSE (AI/ML)** student at **Brainware University** specializing in **Data Science, Data Analytics, and Artificial Intelligence**.
 
 ---
 
-## 🌟 Live Demo
+## 🌟 View Portfolio
 
 👉 **[https://karanthakur7.github.io/Karan-Portfolio/](https://karanthakur7.github.io/Karan-Portfolio/)**
 
